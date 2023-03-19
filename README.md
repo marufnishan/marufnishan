@@ -14,10 +14,6 @@ Skills: LARAVEL/PHP-OOP/VUE JS / JS /INERTIA JS/ LIVEWIRE/REST API/HTML / CSS/BO
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marufnishan&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=marufnishan)  
-
-![GitHub metrics](https://metrics.lecoq.io/marufnishan)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=marufnishan)  
 
 ![Profile views](https://gpvc.arturio.dev/marufnishan)  
