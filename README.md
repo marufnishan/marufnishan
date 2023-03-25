@@ -1,5 +1,5 @@
 ### Hi there 👋,
-####I am a Web Developer with over 2 years of experience in the industry. I have been honing my skills and expertise in Web Development and have worked on several projects using Laravel and Vue.js.
+#### I am a Web Developer with over 2 years of experience in the industry. I have been honing my skills and expertise in Web Development and have worked on several projects using Laravel and Vue.js.
 
 My proficiency in Core PHP and PHP OOP features, practical experience with the Laravel framework, and a solid foundation in Laravel Eloquent ORM & Query Builder makes me a valuable asset to any team. I have experience working with Rest APIs, strong knowledge of MySQL, and a good grasp of HTML5, CSS3, and Bootstrap.
 
