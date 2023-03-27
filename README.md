@@ -7,6 +7,7 @@ My proficiency in Core PHP and PHP OOP features, practical experience with the L
 
 ### LARAVEL / PHP-OOP / VUE JS / JS / AJAX / INERTIA JS / LIVEWIRE / REST-API / HTML / CSS / BOOTSTRAP / MY-SQL
 
+
 - 💻 I’m currently working on Aniya Network Solutions Inc.  
 - 🌱 I’m currently learning React 
 - 💬 Ask me about Web Development 
