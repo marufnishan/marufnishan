@@ -3,7 +3,7 @@
 
 My proficiency in Core PHP and PHP OOP features, practical experience with the Laravel framework, and a solid foundation in Laravel Eloquent ORM & Query Builder makes me a valuable asset to any team. I have experience working with Rest APIs, strong knowledge of MySQL, and a good grasp of HTML5, CSS3, and Bootstrap.
 
-Skills: LARAVEL/PHP-OOP/VUE JS / JS /AJAX/INERTIA JS/ LIVEWIRE/REST-API/HTML / CSS/BOOTSTRAP/MY-SQL
+# Skills: LARAVEL/PHP-OOP/VUE JS / JS /AJAX/INERTIA JS/ LIVEWIRE/REST-API/HTML / CSS/BOOTSTRAP/MY-SQL
 
 - 💻 I’m currently working on Aniya Network Solutions Inc.  
 - 🌱 I’m currently learning React 
