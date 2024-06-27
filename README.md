@@ -5,13 +5,13 @@ My proficiency in Core PHP and PHP OOP features, practical experience with the L
 
 # Skills: 
 
-### LARAVEL / PHP-OOP / VUE JS / JS / AJAX / INERTIA JS / LIVEWIRE / REST-API / HTML / CSS / BOOTSTRAP / MY-SQL
+### LARAVEL / PHP-OOP / VUE JS / NUXT JS / JS / AJAX / INERTIA JS / LIVEWIRE / REST-API / HTML / CSS / BOOTSTRAP / TAILWIND / MY-SQL
 
 
 - 💻 I’m currently working on Aniya Network Solutions Inc.  
 - 🌱 I’m currently learning React 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: Nikunja-2, Road-18, Khilkhet, Dhaka-1229, Bangladesh 
+- 📫 How to reach me: Email: mdmarufnishan@gmail.com WhatsApp: 01718863771
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mdmaruf.nishan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maruf-nishan) 
