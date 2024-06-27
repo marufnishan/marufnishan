@@ -61,6 +61,4 @@ I am a Web Developer with over 3 years of experience in the industry. My skills 
 - **Email:** mdmarufnishan@gmail.com
 - **WhatsApp:** 01718863771
 
----
 
-![Profile views](https://gpvc.arturio.dev/marufnishan)
