@@ -1,23 +1,66 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Maruf Nishan</h1>
 
-#### I am a Web Developer with over 3 years of experience in the industry. I have been honing my skills and expertise in Web Development and have worked on several projects using Laravel and Vue.js.
+<p align="center">
+  <a href="https://github.com/marufnishan"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+Developer+with+3%2B+Years+Experience;Laravel+%7C+Vue.js+%7C+Nuxt.js+Specialist;Passionate+Learner+and+Developer"></a>
+</p>
 
-My proficiency in Core PHP and PHP OOP features, practical experience with the Laravel Vue.js and Nuxt.js frameworks, and a solid foundation in Laravel Eloquent ORM & Query Builder makes me a valuable asset to any team. I have experience working with REST APIs, strong knowledge of MySQL, and a good grasp of HTML5, CSS3, Tailwind, and Bootstrap.
+---
 
-## Skills:
+### 👨‍💻 About Me:
+I am a Web Developer with over 3 years of experience in the industry. My skills and expertise in Web Development have been honed through numerous projects using Laravel and Vue.js. I have a solid foundation in Core PHP and PHP OOP features, practical experience with the Laravel, Vue.js, and Nuxt.js frameworks, and a strong grasp of Laravel Eloquent ORM & Query Builder. My experience with REST APIs, MySQL, HTML5, CSS3, Tailwind, and Bootstrap makes me a versatile developer.
 
-### LARAVEL / PHP-OOP / VUE JS / NUXT JS / JS / AJAX / INERTIA JS / LIVEWIRE / REST-API / HTML / CSS / BOOTSTRAP / TAILWIND / MY-SQL
+---
 
-- 💻 I’m currently working at Aniya Network Solutions Inc.
-- 🌱 I’m currently learning React
-- 💬 Ask me about Web Development
-- 📫 How to reach me: Email: mdmarufnishan@gmail.com | WhatsApp: 01718863771
+### 🛠️ My Skills:
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mdmaruf.nishan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maruf-nishan)
+#### Frameworks and Libraries:
+- **Laravel** | **Vue.js** | **Nuxt.js** | **Inertia.js** | **Livewire**
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=marufnishan)
+#### Languages:
+- **PHP** | **JavaScript** | **HTML** | **CSS** | **C**
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300C58E.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+#### Databases:
+- **MySQL**
 
+#### Tools and Platforms:
+- **Postman** | **Cloudflare** | **Apache** | **Linux** | **Canva** | **Adobe Photoshop**
+
+#### Other Skills:
+- **AJAX** | **REST API** | **Bootstrap** | **Tailwind CSS**
+
+---
+
+### 🌐 Connect with Me:
+<p align="center">
+  <a href="https://facebook.com/mdmaruf.nishan"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
+  <a href="https://linkedin.com/in/maruf-nishan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marufnishan&show_icons=true&theme=radical">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marufnishan&theme=radical">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufnishan&layout=compact&theme=radical">
+</p>
+
+---
+
+### 🔭 Current Work and Learning:
+- 💻 I’m currently working at **Aniya Network Solutions Inc.**
+- 🌱 I’m currently learning **React**
+
+---
+
+### 📫 How to Reach Me:
+- **Email:** mdmarufnishan@gmail.com
+- **WhatsApp:** 01718863771
+
+---
+
+![Profile views](https://gpvc.arturio.dev/marufnishan)
